@@ -1,0 +1,52 @@
+Illegal alias format `Toolbox Version \1.\2"'. Use "name=value" or "name(n)=value", where n is the number of arguments
+Illegal alias format `Toolbox Version \1.\2"'. Use "name=value" or "name(n)=value", where n is the number of arguments
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:71: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:72: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:72: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/Opt/BuildIgJgP1VF.m:53: warning: Unsupported xml/html tag <Num> found
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/runValids.m:58: warning: explicit link request to 'validStiffP1' could not be resolved
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/base/CubeMesh.m:53: warning: Illegal </br> tag found
+
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/bench/benchStiff3DP1.m:86: warning: explicit link request to 'StiffAssemblingP1base' could not be resolved
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/bench/benchStiff3DP1.m:86: warning: explicit link request to 'StiffAssemblingP1OptV0' could not be resolved
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/bench/benchStiff3DP1.m:86: warning: explicit link request to 'StiffAssemblingP1OptV1' could not be resolved
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/bench/benchStiff3DP1.m:86: warning: explicit link request to 'StiffAssemblingP1OptV2' could not be resolved
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:61: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:62: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:62: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:71: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:72: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:72: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:61: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:62: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:62: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:71: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:72: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:72: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/Opt/BuildIgJgP1VF.m:49: warning: Unsupported xml/html tag <Num> found
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/Opt/BuildIgJgP1VF.m:53: warning: Unsupported xml/html tag <Num> found
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/Opt/BuildIgJgP1VF.m:49: warning: Unsupported xml/html tag <Num> found
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/Opt/BuildIgJgP1VF.m:53: warning: Unsupported xml/html tag <Num> found
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/runValids.m:49: warning: explicit link request to 'validStiffP1' could not be resolved
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/runValids.m:58: warning: explicit link request to 'validStiffP1' could not be resolved
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/runValids.m:49: warning: explicit link request to 'validStiffP1' could not be resolved
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/runValids.m:58: warning: explicit link request to 'validStiffP1' could not be resolved
+</home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/>:3: warning: Found unknown command `\hline'
+</home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/>:4: warning: Found unknown command `\hline'
+</home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/>:4: warning: Found unknown command `\hline'
+</home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/Opt/>:1: warning: Unsupported xml/html tag <Num> found
+Problems running latex. Check your installation or look for typos in _formulas.tex and check _formulas.log!
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/doxygen/maindoc.c:19: warning: Illegal </br> tag found
+
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/doxygen/maindoc.c:19: warning: Illegal </br> tag found
+
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/runValids.m:49: warning: explicit link request to 'validStiffP1' could not be resolved
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:61: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:62: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:62: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/Opt/BuildIgJgP1VF.m:49: warning: Unsupported xml/html tag <Num> found
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:61: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:62: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/common/PrintDataInLatexTabular.m:62: warning: Found unknown command `\hline'
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/Opt/BuildIgJgP1VF.m:49: warning: Unsupported xml/html tag <Num> found
+/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/runValids.m:49: warning: explicit link request to 'validStiffP1' could not be resolved

@@ -1,0 +1,199 @@
+\batchmode
+\documentclass{article}
+\usepackage{epsfig}
+\usepackage{/home/cuvelier/Travail/Recherch/Matlab/FEM3Dtoolbox/OptFEM3DP1/doxygen/latexextras}
+\pagestyle{empty}
+\begin{document}
+$ P_1 $
+\pagebreak
+
+$ \Masse $
+\pagebreak
+
+\[ \Masse_{i,j}=\int_\DOMH \FoncBase_i(\q)\, \FoncBase_j(\q)\, d\q,\ \forall (i,j)\in{\ENS{1}{\nq}}^2 \]
+\pagebreak
+
+$ \FoncBase_i $
+\pagebreak
+
+$ \Stiff $
+\pagebreak
+
+\[ \Stiff_{i,j}=\int_\DOMH \DOT{\GRAD\FoncBase_i(\q)}{\GRAD\FoncBase_j(\q)}d\q,\ \forall (i,j)\in{\ENS{1}{\nq}}^2\]
+\pagebreak
+
+$ \StiffElas $
+\pagebreak
+
+\[ \StiffElas_{m,l}=\int_{\DOMH} \Odv^t(\BasisFuncTwoD_m)(\q) \Ocv(\BasisFuncTwoD_l)(\q)d(\q), \ \forall (m,l)\in\ENS{1}{3\,\nq}^2,\]
+\pagebreak
+
+$ \BasisFuncTwoD_m $
+\pagebreak
+
+$ \Ocv=(\Occ_{xx},\Occ_{yy},\Occ_{zz}, \Occ_{xy}, \Occ_{yz}, \Occ_{xz})^t $
+\pagebreak
+
+$ \Odv=(\Odc_{xx},\Odc_{yy},\Odc_{zz},2\Odc_{xy},2\Odc_{yz},2\Odc_{xz})^t $
+\pagebreak
+
+$ {\MassVF} $
+\pagebreak
+
+\[ \MassVF_{i,j}=\int_\DOMH \DOT{\BasisFuncTwoD_m(\q)}{ \BasisFuncTwoD_l(\q)}d(\q), \ \forall (m,l)\in\ENS{1}{3\,\nq}^2, \]
+\pagebreak
+
+$\LaTeX{}$
+\pagebreak
+
+\[\mbox{\input{\INPUTLATEXDIR/benchMatlabR2012b_Mass3DP1.tex}} \]
+\pagebreak
+
+\[\mbox{\input{\INPUTLATEXDIR/benchMatlabR2012b_Stiff3DP1.tex}} \]
+\pagebreak
+
+\[\mbox{\input{\INPUTLATEXDIR/benchMatlabR2012b_StiffElas3DP1.tex}} \]
+\pagebreak
+
+\[\mbox{\input{\INPUTLATEXDIR/benchMatlabR2012b_MassVF3DP1.tex}} \]
+\pagebreak
+
+\[\mbox{\input{\INPUTLATEXDIR/benchOctave3.6.3_Mass3DP1.tex}} \]
+\pagebreak
+
+\[\mbox{\input{\INPUTLATEXDIR/benchOctave3.6.3_Stiff3DP1.tex}} \]
+\pagebreak
+
+\[\mbox{\input{\INPUTLATEXDIR/benchOctave3.6.3_StiffElas3DP1.tex}} \]
+\pagebreak
+
+\[\mbox{\input{\INPUTLATEXDIR/benchOctave3.6.3_MassVF3DP1.tex}} \]
+\pagebreak
+
+$[0,1]\times[0,1]\times[0,1]$
+\pagebreak
+
+$(N+1)$
+\pagebreak
+
+$(N+1)\times(N+1)$
+\pagebreak
+
+$\nq$
+\pagebreak
+
+$3\times\nq$
+\pagebreak
+
+${\q}(\il,j)$
+\pagebreak
+
+$\il$
+\pagebreak
+
+$j$
+\pagebreak
+
+$\il\in\{1,2,3\}$
+\pagebreak
+
+$j\in\ENS{1}{\nq}$
+\pagebreak
+
+$\nme$
+\pagebreak
+
+$4\times\nme$
+\pagebreak
+
+$\me(\jl,k)$
+\pagebreak
+
+$\jl$
+\pagebreak
+
+$k$
+\pagebreak
+
+$\q$
+\pagebreak
+
+$\jl\in\{1,2,3,4\}$
+\pagebreak
+
+$k\in{\ENS{1}{\nme}}$
+\pagebreak
+
+$1\times\nme array$
+\pagebreak
+
+$P_1$
+\pagebreak
+
+$\Masse$
+\pagebreak
+
+\[\Masse_{i,j}=\int_\DOMH \FoncBase_i(\q)\, \FoncBase_j(\q)\, d\q,\ \forall (i,j)\in{\ENS{1}{\nq}}^2\]
+\pagebreak
+
+$\FoncBase_i$
+\pagebreak
+
+$\nq\times\nq$
+\pagebreak
+
+\[\MassVF_{i,j}=\int_\DOMH \DOT{\BasisFuncTwoD_m(\q)}{ \BasisFuncTwoD_l(\q)}d(\q), \ \forall (m,l)\in\ENS{1}{3\,\nq}^2,\]
+\pagebreak
+
+$\BasisFuncTwoD_m$
+\pagebreak
+
+$3\nq\times 3\nq$
+\pagebreak
+
+$\Stiff$
+\pagebreak
+
+\[\Stiff_{i,j}=\int_\DOMH \DOT{\GRAD\FoncBase_i(\q)}{\GRAD\FoncBase_j(\q)}d\q,\ \forall (i,j)\in{\ENS{1}{\nq}}^2\]
+\pagebreak
+
+\[\StiffElas_{m,l}=\int_{\DOMH} \Odv^t(\BasisFuncTwoD_m) \Ocv(\BasisFuncTwoD_l)dT, \ \forall (m,l)\in\ENS{1}{2\,\nq}^2,\]
+\pagebreak
+
+$\Ocv=(\Occ_{xx},\Occ_{yy},\Occ_{zz}, \Occ_{xy}, \Occ_{yz}, \Occ_{xz})^t$
+\pagebreak
+
+$\Odv=(\Odc_{xx},\Odc_{yy},\Odc_{zz},2\Odc_{xy},2\Odc_{yz},2\Odc_{xz})^t$
+\pagebreak
+
+$2\times\nq$
+\pagebreak
+
+$\il\in\{1,2\}$
+\pagebreak
+
+$3\times\nme$
+\pagebreak
+
+$\jl\in\{1,2,3\}$
+\pagebreak
+
+$144\times \nme$
+\pagebreak
+
+$6|T|$
+\pagebreak
+
+$6|T_k|$
+\pagebreak
+
+${\q}^{\me(\il,k)}$
+\pagebreak
+
+$T_k$
+\pagebreak
+
+$\nbf$
+\pagebreak
+
+\end{document}
