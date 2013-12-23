@@ -29,6 +29,8 @@ Requirements
 Testing and Working
 ----------------------
     Ubuntu 12.04 LTS (x86_64) with
+        Matlab R2013b
+        Matlab R2013a
         Matlab R2012b
         Matlab R2012a
         Matlab R2011b
@@ -52,10 +54,10 @@ Documentation
 This version is with html documentation.
 
 * To see the code documentation :
-    open in a web browser the file <doc/index.html>
+    open in a web browser the file doc/index.html
     
 * To see the code documentation online :
-   <www.math.univ-paris13.fr/~cuvelier/docs/Recherch/FEM3Dtoolbox/doc/?/index.html>
+   <http://www.math.univ-paris13.fr/~cuvelier/docs/Recherch/FEM3Dtoolbox/doc/V1.0/index.html>
 
 * To get the code manual :
    <http://hal.archives-ouvertes.fr/hal-00785101> 
@@ -77,16 +79,16 @@ If not, see http://www.gnu.org/licenses/.
 
 Software using source files of this project or significant parts of it,
 should include the following attribution notice:
-% --------------------------------------------------------------------
-% ATTRIBUTION NOTICE:
-% This product includes software developed for the OptFEM3DP1 project at
-% (C) University Paris XIII, Galilee Institute, LAGA, France.
-%
-% OptFEM3DP1 is a MATLAB/Octave software package for P1-Lagrange Finite Element Methods in 3D.
-% The project is maintained by
-% F. Cuvelier, C. Japhet and G. Scarella.
-% For Online Documentation and Download we refer to
-% <www.math.univ-paris13.fr/~cuvelier>
+% --------------------------------------------------------------------<br />
+% ATTRIBUTION NOTICE:<br />
+% This product includes software developed for the OptFEM3DP1 project at<br />
+% (C) University Paris XIII, Galilee Institute, LAGA, France.<br />
+%<br />
+% OptFEM3DP1 is a MATLAB/Octave software package for P1-Lagrange Finite Element Methods in 3D.<br />
+% The project is maintained by<br />
+% F. Cuvelier, C. Japhet and G. Scarella.<br />
+% For Online Documentation and Download we refer to<br />
+% <http://www.math.univ-paris13.fr/~cuvelier><br />
 % --------------------------------------------------------------------
 
     
